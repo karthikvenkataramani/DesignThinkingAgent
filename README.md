@@ -103,3 +103,15 @@ The code sequentially runs the design thinking process, from gathering user pers
 ---
 
 This code efficiently guides users through the design thinking process using a conversational agent powered by Groq's LLM, allowing for an interactive, iterative approach to refining ideas and solutions.
+
+<img width="1440" alt="Screenshot 2024-10-19 at 1 17 38 AM" src="https://github.com/user-attachments/assets/e3c9785e-2f69-4aba-85ba-0037fe4825ef">
+<img width="1186" alt="Screenshot 2024-10-19 at 1 18 08 AM" src="https://github.com/user-attachments/assets/7c3fb9a7-f17b-4b69-9f3f-7e0fcc5cf2ea">
+<img width="1328" alt="Screenshot 2024-10-19 at 1 18 25 AM" src="https://github.com/user-attachments/assets/3fbc19ce-7ebb-4b90-afc8-fd8cbf079b8b">
+<img width="1338" alt="Screenshot 2024-10-19 at 1 18 35 AM" src="https://github.com/user-attachments/assets/7926fb30-a236-46e2-b1b1-a5a3a0d967a7">
+<img width="1320" alt="Screenshot 2024-10-19 at 1 18 58 AM" src="https://github.com/user-attachments/assets/6d15cfb3-ffc1-4e4c-83c2-3720dafdcfac">
+<img width="1337" alt="Screenshot 2024-10-19 at 1 20 31 AM" src="https://github.com/user-attachments/assets/118dfc89-e912-4eb6-9631-431007614292">
+<img width="1367" alt="Screenshot 2024-10-19 at 1 20 46 AM" src="https://github.com/user-attachments/assets/cc82265d-886a-46d5-a04b-53fafb76b534">
+
+
+
+
